@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardofabreu" alt="leonardofabreu" /></a> </p>
 
 - 🔭 I'm finishing my Web Development course at Trybe, getting ready to be a Full Stack Dev, with a slight preference for front-end.
-- 📫 How do you find me? **leonardofabreu@hotmail.com**
+- 📫 How do you find me? **leonardofabreu@hotmail.com** or **leomafle@gmail.com**
 
 <h3 align="left">How about connecting with me?</h3>
 <p align="left">

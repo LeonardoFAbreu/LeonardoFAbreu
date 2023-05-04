@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonardo
 ================================================================================================================================
 
-A brazilian Web Developer.
+A brazilian Web Developer
 --------------------------
 
 I'm finishing my Web Development course at Trybe, getting ready to be a Full Stack Dev, with a slight preference for frontend.
@@ -10,8 +10,8 @@ I'm finishing my Web Development course at Trybe, getting ready to be a Full Sta
 * 🖥️  See my portfolio at [GitHub](http://github.com/LeonardoFAbreu)
 * ✉️  You can contact me at [leonardofabreu@hotmail.com](mailto:leonardofabreu@hotmail.com)
 * 🧠  I'm learning Computer Science
-* 🤝  I'm open to collaborating on Any project that wants to give an early career web developer a chance.
-* ⚡  I'm married, father of a boy and a girl, I love rock n' roll and I also enjoy Communication and Marketing
+* 🤝  I'm open to collaborating on any project that wants to give an early career web developer a chance
+* ⚡  I'm married, father of a boy and a girl, I love rock 'n' roll and I also enjoy Communication and Marketing
 
 ### Skills
 
